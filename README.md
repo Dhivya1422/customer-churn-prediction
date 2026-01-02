@@ -3,6 +3,7 @@ Project Overview
 
 Customer churn happens when users stop using a service.
 In this project, I built a machine learning model to predict whether a customer is likely to churn, so businesses can take action early.
+
 OBJECTIVE
 
 Predict customer churn
